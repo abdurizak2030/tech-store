@@ -1,5 +1,4 @@
 ﻿# tech-store
-# tech-store
 # 🛒 WE TECH STORE — Modern eCommerce Website
 
 Welcome to **WE Tech Store**, a modern, responsive, and interactive eCommerce website built using pure HTML, CSS, and JavaScript.
